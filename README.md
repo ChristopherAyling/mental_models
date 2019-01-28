@@ -1,5 +1,11 @@
 # Mental Models
 
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
+<!-- Markdown snippet -->
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ChristopherAyling/mental_models)
+
+
 ### [Live Demo](https://mentalmdels.netlify.com/)
 
 ## About
